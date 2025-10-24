@@ -1,1 +1,4 @@
+pdf-engine: xelatex
+slide-level: 2
+toc: true
 
